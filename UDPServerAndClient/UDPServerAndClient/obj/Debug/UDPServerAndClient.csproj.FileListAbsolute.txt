@@ -1,0 +1,1 @@
+c:\users\denis\documents\visual studio 2015\Projects\UDPServerAndClient\UDPServerAndClient\bin\Debug\UDPServerAndClient.exe.config
